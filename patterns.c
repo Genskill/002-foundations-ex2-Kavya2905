@@ -19,7 +19,7 @@ int main() {
         // loop to print *
         for(int j = i; j >= 1; j--)
             {
-            printf("* ");
+            printf("#");
             }               
 
         printf("\n");
@@ -40,7 +40,7 @@ int main() {
 	    }
 	    else
 	    {
-	    printf("*");		  	
+	    printf("#");		  	
 	    }         
       }
       printf("\n");
